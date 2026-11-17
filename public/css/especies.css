@@ -1,0 +1,6 @@
+body{font-family: Arial, sans-serif;background:#f5f7fb;color:#223}
+.container{width:900px;margin:20px auto;padding:16px;background:#fff;border-radius:6px}
+form label{display:block;margin:8px 0}
+table{width:100%;border-collapse:collapse;margin-top:12px}
+th,td{border:1px solid #ddd;padding:8px;text-align:left}
+button{padding:6px 10px}
